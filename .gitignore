@@ -1,0 +1,15 @@
+node_modules
+*.log
+nuxt.d.ts
+.nitro
+.cache
+# private config
+.env
+
+# build or generate
+.nuxt
+dist
+.output
+
+# IDE
+.idea
